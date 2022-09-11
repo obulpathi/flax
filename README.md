@@ -1,1 +1,3 @@
-# flax
+# Flax
+
+* Hello, Flax!
